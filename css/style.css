@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -99,12 +99,13 @@ img {
 
 #back {
   background: rgba(247,211,27,1);
+  background-size: 100%;
   text-align: center;
   padding: 130px 35px 35px;
 }
 
 #title-box {
-  width: 252px;
+  width: 269px;
   height: 165px;
   background: rgba(247,211,27,1);
   margin-left: 163px;
